@@ -2,7 +2,7 @@
 ---
 # os231
 
-[GitHub](https://github.com/cbkadal/os231/) | | [LOG](TXT/mylog.txt) | | [LINKS](LINKS/)
+[GitHub](https://github.com/vrtass/os231/) | | [LOG](TXT/mylog.txt) | | [LINKS](LINKS/)
 
 ## CBKADAL's TARBALL:
 
